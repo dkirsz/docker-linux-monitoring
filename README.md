@@ -18,10 +18,10 @@ The project architecture consists of three main components:
 ## 📸 Dashboard Preview
 
 ### System Metrics Overview
-![Grafana Dashboard Overview]([[LINK_DO_TWOJEGO_PIERWSZEGO_SCREENA]](https://i.imgur.com/Lu55SMH.png))
+![Grafana Dashboard Overview]((https://i.imgur.com/Lu55SMH.png))
 
 ### Metrics Under Load (Stress Test)
-![Metrics Spike](https://i.imgur.com/7den4BB.png)
+![Metrics Spike]((https://i.imgur.com/7den4BB.png))
 
 ---
 
