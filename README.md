@@ -34,5 +34,5 @@ The project architecture consists of three main components:
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)dkirsz/docker-linux-monitoring.git
+   git clone https://github.com/dkirsz/docker-linux-monitoring.git
    cd docker-linux-monitoring
