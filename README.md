@@ -18,11 +18,11 @@ The project architecture consists of three main components:
 ## 📸 Dashboard Preview
 
 ### System Metrics Overview
-![Grafana Dashboard Overview]<img width="1366" height="685" alt="grafana" src="https://github.com/user-attachments/assets/f02922e2-a077-46e9-a5fa-85159013b091" />
+![Grafana Dashboard Overview](<img width="1366" height="685" alt="grafana" src="https://github.com/user-attachments/assets/f02922e2-a077-46e9-a5fa-85159013b091" />)
 
 
 ### Metrics Under Load (Stress Test)
-![Metrics Spike]<img width="1366" height="684" alt="grafana2" src="https://github.com/user-attachments/assets/1cf4226d-79bc-46bd-860b-a5951bac6dfe" />
+![Metrics Spike](<img width="1366" height="684" alt="grafana2" src="https://github.com/user-attachments/assets/1cf4226d-79bc-46bd-860b-a5951bac6dfe" />)
 
 ---
 
